@@ -1,8 +1,10 @@
 - 👋 Hi, I’m Matthew (@mattesko)
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- I'm currently a Software Engineer
+- 👀 I’m interested in Linux, Cloud Development, and Full Stack Software Development
+- 🌱 I’m currently learning AWS
+- 💞️ I’m looking to collaborate on Linux or GoLang projects.
+- 📫 How to reach me: matthew.lk.public@gmail.com
+- Visit my portfolio at: https://matthewlk.com/portfolio/index.html
 
 <!---
 mattesko/mattesko is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
