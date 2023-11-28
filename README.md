@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Matthew (@mattesko)
 - I'm currently a Software Engineer
-- 👀 I’m interested in Linux, Cloud Development, and Full Stack Software Development
+- 👀 I’m interested in Linux and Cloud Computing
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on Linux or GoLang projects.
 - 📫 How to reach me: matthew.lk.public@gmail.com
